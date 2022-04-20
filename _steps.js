@@ -14,6 +14,15 @@
  * 4.set app.get('/)
  * 5. lister to port
  * 6.node index.js
+ * 7. check your browser for that port
+ * ----------------
+ * get
+ * ----------------
+ * 1.cors middleware(allowing to access the API data)
+ * -----------------
+ * post
+ * -----------------
+ * 
   
 
  */
